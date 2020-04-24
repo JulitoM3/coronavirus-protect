@@ -7,7 +7,7 @@ Esta compilacion de modelos esta pensada para que sea util en estos momentos que
 Puede clonar el repo con [git](https://git-scm.com/download/win) o simplemente bajarlo desde descargar.
 
 ```bash
-git clone https://github.com/xchwarze/toolkit
+git clone https://github.com/JulitoM3/coronavirus-protect/
 ```
 
 ## Contribuciones
